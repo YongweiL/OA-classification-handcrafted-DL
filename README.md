@@ -1,7 +1,7 @@
 # OA-classification-handcrafted-DL
   CLASSIFICATION OF KNEE OSTEOTHRITIS USING  DEEP LEARNING MODELS FUSED WITH  HANDCRAFTED FEATURES  
-Citation : 
-Mohammed, Nelson, Pooja, Boehm, Ahmed, Mahendrakar, Mahmoudian, Lee, Peat, Cui, Scott, Kellgren, Dube, Kumar, Norman, Thomas, Tan, Taye, Sonavane, Huang, Abd Ghani, Qi, Prashantha, Senan, Olayah, Sedik, Meena, Yunus, Chen, Tiulpin, Wani, Zhang, Meng, Xuan, Kokkotis, Su, Heisinger, Yang, Tiwari, Moustakidis, Ahmed, Wahyuningrum, Nurmirinta
+># Citation : 
+>Mohammed, Nelson, Pooja, Boehm, Ahmed, Mahendrakar, Mahmoudian, Lee, Peat, Cui, Scott, Kellgren, Dube, Kumar, Norman, Thomas, Tan, Taye, Sonavane, Huang, Abd Ghani, Qi, Prashantha, Senan, Olayah, Sedik, Meena, >Yunus, Chen, Tiulpin, Wani, Zhang, Meng, Xuan, Kokkotis, Su, Heisinger, Yang, Tiwari, Moustakidis, Ahmed, Wahyuningrum, Nurmirinta*
   
 In this study, knee OA X-ray pictures in this investigation are classified using Kellgren and Lawrence (KL) grades as the ground truth. When determining the initial severity of knee osteoarthritis on radiographs, the KL grading scheme is still thought to be the best. To represent the radiological severity of knee OA, five grades are used. As shown in Figure below, "Grade 0" denotes normal, "Grade 1" uncertain, "Grade 2" minor, "Grade 3" moderate, and "Grade 4" severe as seen in figure below.
 <img width="765" height="345" alt="image" src="https://github.com/user-attachments/assets/89c0829c-8b1c-4385-91dc-c53cfc5a3e47" />
