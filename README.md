@@ -21,8 +21,10 @@ An end-to-end deep learning pipeline is suggested to diagnose the severity of Kn
 
 # Feature-Level Fusion - Example Feature Index Map for VGG19 + Handcrafted Fusion (Single Sample)
 <img width="639" height="459" alt="image" src="https://github.com/user-attachments/assets/52d255fe-3a87-4309-a802-f68e461c28df" />
+
 # Feature-Level Fusion - Example Feature Index Map for Resnet101 + Handcrafted Fusion (Single Sample)
 <img width="856" height="215" alt="image" src="https://github.com/user-attachments/assets/9f01bbd7-6c5b-4120-a293-97f8e11b7ab6" />
+
 # Feature-Level Fusion - Example Feature Index Map for VGG19 + Resnet101 + Handcrafted Fusion (Single Sample)
 <img width="856" height="318" alt="image" src="https://github.com/user-attachments/assets/3f3100af-6a52-4dcc-8c18-730380eba2f9" />
 
