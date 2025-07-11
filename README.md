@@ -4,9 +4,11 @@
 >Mohammed, Nelson, Pooja, Boehm, Ahmed, Mahendrakar, Mahmoudian, Lee, Peat, Cui, Scott, Kellgren, Dube, Kumar, Norman, Thomas, Tan, Taye, Sonavane, Huang, Abd Ghani, Qi, Prashantha, Senan, Olayah, Sedik, Meena, >Yunus, Chen, Tiulpin, Wani, Zhang, Meng, Xuan, Kokkotis, Su, Heisinger, Yang, Tiwari, Moustakidis, Ahmed, Wahyuningrum, Nurmirinta*
   
 In this study, knee OA X-ray pictures in this investigation are classified using Kellgren and Lawrence (KL) grades as the ground truth. When determining the initial severity of knee osteoarthritis on radiographs, the KL grading scheme is still thought to be the best. To represent the radiological severity of knee OA, five grades are used. As shown in Figure below, "Grade 0" denotes normal, "Grade 1" uncertain, "Grade 2" minor, "Grade 3" moderate, and "Grade 4" severe as seen in figure below.
+
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/89c0829c-8b1c-4385-91dc-c53cfc5a3e47" />
 
 Degenerative knee conditions like osteoarthritis result from the loss of cartilage that cushions joint impact. This study used the OAI dataset to assess KL grading severity and identify knee arthritis from X-rays. The dataset from (https://www.kaggle.com/datasets/tommyngx/kneeoa) includes 9,786 X-rays from 4,796 individuals aged 45–79, covering 8,260 knee joints. Based on the KL grading scheme, images were categorized into five classes: Grade 0 (3,857), Grade 1 (1,770), Grade 2 (2,578), Grade 3 (1,286), and Grade 4 (295). To ensure only clear images were used, a custom Streamlit app was developed for manual selection, resulting in 5,277 high-quality images saved for analysis. Table below summarizes the dataset before and after selection.
+
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c321e929-8ac9-49cc-9708-8e99f51d11f9" />
 
 # Proposed Architecture
